@@ -1,2 +1,4 @@
 # desafioProgramacion
-solucion propuessta al desafio de programacion
+solucion propuesta al desafio de programacion
+
+
