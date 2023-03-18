@@ -19,7 +19,7 @@ public class Divisolve {
         }
         String s ;
         int r = 0;
-        //se calcula el resto de dividir n entre 2021, el cociente rrepresenta la cantidad de vueltas completas que hay que dar al array para encontrar la solucion
+        //se calcula el resto de dividir n entre 2021, el cociente representa la cantidad de vueltas completas que hay que dar al array para encontrar la solucion
         //y el resto es la posicion del array en donde estaria la respuesta 
         //como la vuelta empieza y termina en 0 con ver que hay en la posicion r despues de step pasos alcanza para descubrir la solucion
         BigInteger step = new BigInteger(String.valueOf(n)).mod(M);
